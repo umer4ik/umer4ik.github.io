@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://umer4ik.github.io//sitemap.xml
-Host: https://umer4ik.github.io
